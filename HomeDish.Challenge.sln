@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDish.Challenge", "HomeDish.Challenge\HomeDish.Challenge.csproj", "{948A379E-5116-4842-96A9-13567CD8DBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDish.Challenge.Library", "HomeDish.Challenge.Library\HomeDish.Challenge.Library.csproj", "{8822099F-34E7-4F9E-BC23-65EFAC881340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948A379E-5116-4842-96A9-13567CD8DBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948A379E-5116-4842-96A9-13567CD8DBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948A379E-5116-4842-96A9-13567CD8DBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948A379E-5116-4842-96A9-13567CD8DBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8822099F-34E7-4F9E-BC23-65EFAC881340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8822099F-34E7-4F9E-BC23-65EFAC881340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8822099F-34E7-4F9E-BC23-65EFAC881340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8822099F-34E7-4F9E-BC23-65EFAC881340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A67ACECC-E4AE-4DBB-A6D5-99D31BC99272}
+	EndGlobalSection
+EndGlobal
